@@ -1,6 +1,6 @@
 package com.svit.dayseven.interfaceconcepts;
 
-public class FinalClassMain extends FinalClass  // Error occurs because inheritance not possible when final used in class creation.
+public class FinalClassMain //extends FinalClass  // Error occurs because inheritance not possible when final used in class creation.
 	{
 
 	void run() {
